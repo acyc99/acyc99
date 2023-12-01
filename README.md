@@ -1,4 +1,6 @@
-### Hi there 👋
+# Welcome to my GitHub 👋
+
+🏫 Academic GitHub Profile: ![achang140 GitHub Link](https://github.com/achang140)
 
 <!--
 **acyc99/acyc99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=acyc99)
