@@ -11,7 +11,7 @@
 
 ## 🌐 Connect with Me
 
-[![Linkedin Badge](https://img.shields.io/badge/-Amanda_Chang-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanda-cy-chang/)
+![LinkedIn Badge](https://img.shields.io/badge/Amanda_Chang-Gmail?logo=linkedin&logoColor=%230000ff&label=LinkedIn%20&labelColor=%23000000&color=%23ffffff&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Famanda-cy-chang%2F)
 [![Gmail Badge](https://img.shields.io/badge/Amanda_Chang-Gmail?logo=Gmail&logoColor=%23FF0000&label=Gmail&labelColor=%23000000&color=%23FF0000)](mailto:changamanda999@gmail.com)
 
 
