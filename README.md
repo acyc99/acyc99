@@ -1,7 +1,10 @@
 # Welcome to my GitHub 👋
 
-🏫 Academic GitHub Profile: [achang140](https://github.com/achang140) 
-![achang140](https://github.com/achang140.png)
+🏫 Academic GitHub Profile: 
+<a href="https://github.com/achang140">
+  <img src="https://github.com/achang140.png" alt="achang140" width="10" height="10">
+</a>
+
 
 <!--
 **acyc99/acyc99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
