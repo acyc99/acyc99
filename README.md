@@ -2,9 +2,9 @@
 
 🏫 Academic GitHub Profile: 
 <a href="https://github.com/achang140">
-  <img src="https://github.com/achang140.png" alt="achang140" width="20" height="20">
-  achang140
+  <img src="https://github.com/achang140.png" alt="achang140" width="20" height="20">&nbsp; achang140
 </a>
+
 
 
 
