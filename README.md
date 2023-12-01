@@ -2,12 +2,8 @@
 
 ## 🏫 Academic Profiles
 
-- **GitHub:** 
-  <a href="https://github.com/achang140">
-    <img src="https://github.com/achang140.png" alt="achang140" width="20" height="20">achang140
-  </a>
+[![GitHub Badge](https://img.shields.io/badge/achang140-Gmail?logo=github&logoColor=%23ffffff&label=GitHub&labelColor=%23000000&color=%23ffffff)](https://github.com/achang140)
 
-- **YouTube:** [acyc99](https://www.youtube.com/@acyc99)
 
 ## 🌐 Connect with Me
 
