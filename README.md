@@ -1,9 +1,21 @@
 # Welcome to my GitHub 👋
 
-🏫 Academic GitHub Profile: 
-<a href="https://github.com/achang140">
-  <img src="https://github.com/achang140.png" alt="achang140" width="20" height="20">achang140
-</a>
+## 🏫 Academic Profiles
+
+- **GitHub:** 
+  <a href="https://github.com/achang140">
+    <img src="https://github.com/achang140.png" alt="achang140" width="20" height="20">achang140
+  </a>
+
+- **YouTube:** [acyc99](https://www.youtube.com/@acyc99)
+
+## 🌐 Connect with Me
+
+[![Linkedin Badge](https://img.shields.io/badge/-Amanda_Chang-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanda-cy-chang/)
+[![Gmail Badge](https://img.shields.io/badge/-Amanda_Chang-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](changamanda999@gmail.com)
+
+
+
 
 
 
