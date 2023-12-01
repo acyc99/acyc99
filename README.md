@@ -1,6 +1,7 @@
 # Welcome to my GitHub 👋
 
-🏫 Academic GitHub Profile: ![achang140 GitHub Link](https://github.com/achang140)
+🏫 Academic GitHub Profile: [achang140](https://github.com/achang140) 
+![achang140](https://github.com/achang140.png)
 
 <!--
 **acyc99/acyc99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,4 +18,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=acyc99)
+<!-- ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=acyc99) --> 
