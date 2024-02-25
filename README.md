@@ -12,7 +12,7 @@
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=acyc99&theme=radical)](https://github.com/acyc99/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=acyc99&theme=radical&show_icons=true)](https://github.com/acyc99)
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=acyc99)
+
 
 
 
